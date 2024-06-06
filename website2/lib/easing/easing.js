@@ -1,9 +1,9 @@
 /*
- * jQuery Easing v1.4.1 - http://gsgd.co.uk/sandbox/jquery/easing/
+ * jQuery Easing v1.4.1 - https://lutherbanze.github.io/LutherBanze
  * Open source under the BSD License.
- * Copyright © 2008 George McGinley Smith
+ * Copyright © 2024 Luther Banze
  * All rights reserved.
- * https://raw.github.com/gdsmith/jquery-easing/master/LICENSE
+ * https://lutherbanze.github.io/LutherBanze
 */
 
 (function (factory) {

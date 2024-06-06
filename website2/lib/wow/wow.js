@@ -1,6 +1,6 @@
 /*
-* WOW wow.js - v1.3.0 - 2016-10-04
-* https://wowjs.uk
+* v1.3.0
+* https://lutherbanze.github.io/LutherBanze
 * Copyright (c) 2016 Thomas Grainger; Licensed MIT
 */
 
