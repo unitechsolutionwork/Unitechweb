@@ -6,6 +6,7 @@
     --light: #DFE4FD;
     --dark: #156dfc;
     --bg-luther: #156dfc;
+}
 
 .back-to-top {
     position: fixed;
@@ -587,3 +588,9 @@ h6,
     padding-top: 80px;
 }
 }
+
+
+
+
+
+
