@@ -6,6 +6,8 @@
     --light: #DFE4FD;
     --dark: #156dfc;
     --bg-luther: #156dfc;
+    --equipe: #ffd700;
+
 }
 
 .back-to-top {
@@ -296,7 +298,7 @@ h6,
     height: 100%;
     top: 0;
     left: 0;
-    background: rgba(255, 255, 255, .5);
+    background: rgba(255, 255, 255, 0.199);
     display: flex;
     align-items: center;
     justify-content: center;
@@ -325,7 +327,7 @@ h6,
 }
 
 .project-item:hover .project-title {
-    background: var(--primary);
+    background: #156dfc;
     border-color: var(--primary);
 }
 
@@ -545,6 +547,19 @@ h6,
 .copyright a:hover {
     color: var(--primary);
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
 .cor{
    background-color: #156dfc;
    color: rgb(255, 255, 255);
@@ -587,8 +602,42 @@ h6,
     height: 50px;
     padding-top: 80px;
 }
+
 }
 
+.nomes{
+text-align: center;
+font-size: 5px;
+}
+
+.nomespp{
+    font-size: 18px;
+    color: #ffd700;
+}
+
+
+.pareceirostext{
+        color: #156dfc;
+}
+
+.unitechfooter{
+background-color: #000000;
+}
+
+.unitechfootertext{
+padding-left: 70px;
+color: #ffffff;
+}
+
+
+.unitechfooterp{
+    color: #ffffff;
+}
+
+.equipepp{
+    color: #ffd700;
+    padding: 30px;
+}
 
 
 
