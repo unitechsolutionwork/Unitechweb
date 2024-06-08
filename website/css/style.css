@@ -612,7 +612,7 @@ font-size: 5px;
 
 .nomespp{
     font-size: 18px;
-    color: #ffd700;
+    color: #156dfc;
 }
 
 
@@ -635,11 +635,29 @@ color: #ffffff;
 }
 
 .equipepp{
-    color: #ffd700;
+    color: #156dfc;
     padding: 30px;
 }
 
+.textocc{
+    color: #156dfc;
+    font-size: 12px;
 
+}
+
+.team-item:hover .nomes h1 {
+    color: #FFFFFF;
+}
+
+.team-item:hover .textocc1  {
+    color: #FFFFFF;
+}
+
+.textocc1{
+    color: #000000;
+    font-size: 12px;
+
+}
 
 
 
