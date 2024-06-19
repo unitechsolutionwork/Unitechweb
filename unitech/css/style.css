@@ -723,81 +723,59 @@ padding-top: 20px;
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-.container22{
-    text-align: center;
-}
-
-h1{
-    font-size: 15px;
-    font-weight: 50;
-}
-.time .item{
-    position: relative;
-
-
-}
-.time{
-    display: grid;
-    grid-template-columns: 100px 100px 100px 100px;
-    column-gap: 20px;
-    grid-template-rows: 100px;
+.conteinercentro{
     
-}
-#day,
-#hour,
-#minute,
-#seconds{
-    font-size: 35px;
-    font-weight: bold;
-}
-.time .item::before,
-.time .item::after
-{
-    position: absolute;
-    width:6px;
-    height:20px;
-    background-color: #ffffff;
-    content:'';
-    left:0;
-    top:50%;
-    transform: translate(0,-50%);
-}
-.time .item::after{
-    left: unset;
-    right:0;
+color: #ffffff;
+font-size: 20px;
+
+
+
+   
 }
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 .time{
-    font-size: 15px;
-    color: #ffff;
-}
+    background-color: #156dfc;
+    text-align: center;
+       display: flex;
+       justify-content: center;
+       align-items: center;
+       gap: 20px;
+   }
+
+
+
+
+
 
 .conteinercountdown{
  background-color: #156dfc;
- align-items: center;
+ 
 }
 
 
