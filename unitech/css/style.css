@@ -749,9 +749,7 @@ padding-top: 20px;
 .container22{
     text-align: center;
 }
-.logo img{
-    width:90px
-}
+
 h1{
     font-size: 15px;
     font-weight: 50;
@@ -772,7 +770,7 @@ h1{
 #hour,
 #minute,
 #seconds{
-    font-size: 50px;
+    font-size: 35px;
     font-weight: bold;
 }
 .time .item::before,
@@ -793,7 +791,39 @@ h1{
 }
 
 .time{
-    font-size: 20px;
+    font-size: 15px;
+    color: #ffff;
+}
+
+.conteinercountdown{
+ background-color: #156dfc;
+ align-items: center;
+}
+
+
+.smsms{
+    align-content: center;
+    color: #156dfc;
+}
+
+
+.conteinercountdown{
+    height: 100%;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.conteinercountdown{
+    border: 1px solid #000; /* apenas para visualização */
+    padding: 20px;
+    text-align: center;
+}
+.conteinercountdowntxt{
+   text-align: center;
+   color: #156dfc;
+   font-size: 25px;
 }
 
 
