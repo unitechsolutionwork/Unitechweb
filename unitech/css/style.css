@@ -693,6 +693,47 @@ padding-top: 20px;
 
 
 
+.unitechbtn{
+    background-color: #156dfc; /* Cor de fundo */
+    color: white; /* Cor do texto */
+    border: 2px solid #156dfc; /* Borda inicial */
+    border-radius: 8px; /* Bordas curvas */
+    padding: 10px 20px; /* Espaçamento interno */
+    font-size: 16px; /* Tamanho do texto */
+    cursor: pointer; /* Cursor ao passar por cima */
+    transition: background-color 0.3s ease, color 0.3s ease; /* Transição suave para hover */
+}
+
+
+.unitechbtn:hover {
+    background-color: white; 
+    color: #156dfc; 
+    border: 2px solid #156dfc; 
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
